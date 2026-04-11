@@ -14,8 +14,6 @@ Both **feature-level** and **PC1-based block-level** analyses were performed wit
 - Separate analysis in **KUMC** and **AMC**
 - FDR correction using **Benjamini–Hochberg**
   
-<img width="191" height="148" alt="image" src="https://github.com/user-attachments/assets/8fea50f3-7f71-4425-9002-acb8bac9fd9b" />
-
 
 
 ---
@@ -31,7 +29,5 @@ Each group was summarized by **PC1**, and associations between groups were teste
 - Separate analysis in **KUMC** and **AMC**
 - FDR correction using **Benjamini–Hochberg**
 
-
-<img width="663" height="224" alt="image" src="https://github.com/user-attachments/assets/3868277e-4ee6-4452-bfac-62d59cb04ded" />
 
 
